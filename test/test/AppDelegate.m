@@ -20,6 +20,7 @@
     
     NSLog(@"1222");
     NSLog(@"再次打印");
+    NSLog(@"");
     return YES;
 }
 
